@@ -1,0 +1,9 @@
+label#post-title { }
+
+label#post-content {
+    color: #939393;
+}
+
+#post:focus {
+    background-color: #424242;
+}
